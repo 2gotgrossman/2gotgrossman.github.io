@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Davids Blog
+title:            David's Blog
 tagline:          'A blog'
 description:      'David Grossmans Thoughts'
 url:              http://2gotgrossman.github.com
